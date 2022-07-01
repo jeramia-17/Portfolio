@@ -29,6 +29,7 @@ h2{
 a.font-black{
     color: #000  !important;
 }
+
 /***********************
 
 
@@ -71,6 +72,9 @@ ABOUT
 #about .icons{
     margin-top: 20px;
     font-size:30px;
+}
+#about .icons a{
+    color:  #000;
 }
 /*************
 
